@@ -1,2 +1,4 @@
-Here is my fourth assignment of advanced web programming.
-Unfortunately, I used Mysql as a database and not Postgres, because I had lot of issues with the installation...
+Fourth assigment of Advanced web programming. 
+I had isssued with Postgre so i had to use MySQL, sorry in advance
+
+Julian Le
